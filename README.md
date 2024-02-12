@@ -34,5 +34,5 @@ Se quiser entrar em contato comigo ou colaborar em algum projeto, fique à vonta
 - GitHub: [Meu perfil no GitHub](https://github.com/Igor-Mota) 🐙
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovarallo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovarallo&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-mota&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-mota&layout=compact&theme=dark)
