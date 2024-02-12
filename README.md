@@ -1,16 +1,38 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=IgorMota%20&fontAlignY=40&color=gradient)
 
-<!--
-**Igor-Mota/Igor-Mota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Igor+Mota;Tenho+30+anos;Desenvolvedor+Full-stack;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 💻 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com várias tecnologias, incluindo:
+
+- Front-end: 
+  - React.js 🌟
+  - TypeScript 📝
+
+- Back-end:
+  - PHP 🐘
+  - TypeScript 📝
+
+- Banco de Dados:
+  - MySQL 🧬
+  - PostgreSQL 🐘
+  - MongoDB 🍃
+  - SQL Server 🦈
+
+- Ferramentas:
+  - Docker 🐳
+  - Git 📦
+  - Postman 📬
+    
+## 📫 Contato
+
+Se quiser entrar em contato comigo ou colaborar em algum projeto, fique à vontade para me enviar uma mensagem:
+
+- Email: Igormota999@gmail.com 📧
+- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/igor-mota-0902aa1aa) 👔
+- GitHub: [Meu perfil no GitHub](https://github.com/Igor-Mota) 🐙
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovarallo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovarallo&layout=compact&theme=dark)
